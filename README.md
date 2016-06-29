@@ -30,6 +30,10 @@ Once the new user is created it redirects the user to http://www.sixpackshop.com
 	When you launch this on a server you're goig to have to point facebook to the directory this file is located on. 
 	Make sure you set the permisions correctly on this file so that it can be accessed externally. 
 
+
+	example http://localhost:8888/facebookLogin/index.php?action=facebookCallback
+	You have to make sure you have the /facebookLogin/index.php?action=facebookCallback or else this wont work
+	
 	fb_redirectUrl  
 
 
