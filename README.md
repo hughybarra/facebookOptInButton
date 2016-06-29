@@ -19,7 +19,7 @@ Once the new user is created it redirects the user to http://www.sixpackshop.com
 ###  Facebook 
 You're going to need to create a new facebook developer app and link the info from the app here
 
-`fb_app_id ``
+`fb_app_id `
 `fb_app_secret`
 
 The facebook graph version at the time that I wrote this was v2.6'
