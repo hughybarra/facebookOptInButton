@@ -1,4 +1,4 @@
-Facebook Opt In Button Instructions
+# Facebook Opt In Button Instructions
 
 ### What does it do? 
 
