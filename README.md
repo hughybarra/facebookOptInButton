@@ -1,6 +1,6 @@
 Facebook Opt In Button Instructions
 
-***What does it do? 
+### What does it do? 
 
 This button when clicked sends a auth request to facebook. If a user is signed into Facebook it returns an authenticated token. 
 If the user is not signed in to facebook it promts them to sign in, and then returns an authenticated token. 
@@ -14,9 +14,9 @@ Then it sends a query to Marapost to create a new user.
 Once the new user is created it redirects the user to http://www.sixpackshop.com
 
 
-*** Instructions for use
+###  Instructions for use
 
-*** Facebook 
+###  Facebook 
 	You're going to need to create a new facebook developer app and link the info from the app here
 
 	fb_app_id 
@@ -33,7 +33,7 @@ Once the new user is created it redirects the user to http://www.sixpackshop.com
 	fb_redirectUrl  
 
 
-*** Maropost
+###  Maropost
 
 	You're going to need to create a Maropost account and then create a new list. 
 
@@ -46,5 +46,5 @@ Once the new user is created it redirects the user to http://www.sixpackshop.com
 
 
 
-*** Final redirect Url 
+###  Final redirect Url 
 	this is where we send the user when we are done. By default its set to sixpackshop.
